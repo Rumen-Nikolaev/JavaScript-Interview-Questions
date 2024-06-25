@@ -6,6 +6,7 @@ Boolean
 Null
 Undefined
 Symbol
+
 It also has two compound data types:
 
 Object
