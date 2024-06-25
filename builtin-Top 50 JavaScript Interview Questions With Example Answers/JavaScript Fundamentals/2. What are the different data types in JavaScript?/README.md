@@ -1,13 +1,12 @@
-JavaScript has six primitive data types:
+JavaScript има шест примитивни типа данни:
 
-Number 
-String
-Boolean
-Null
-Undefined
-Symbol
+Номер 
+низ
+Булева стойност
+Нула
+Недефиниран
+Символ
+Освен това има два съставни типа данни:
 
-It also has two compound data types:
-
-Object
-Array
+Обект
+Масив
