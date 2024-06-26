@@ -1,1 +1,10 @@
 querySelectorе по-гъвкав метод, който ви позволява да избирате елементи с помощта на подобни на CSS селектори, като getElementByIdсъщевременно избира конкретно елемент с посочения идентификатор.
+
+
+<div id="myDiv">Hello, World!</div>
+
+const element1 = document.querySelector("#myDiv");
+console.log(element1.textContent); // Output: Hello, World!
+
+const element2 = document.getElementById("myDiv");
+console.log(element2.textContent); // Output: Hello, World!
